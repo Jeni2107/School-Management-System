@@ -5,6 +5,7 @@ Administrators have the ability to view and manage all staff and student details
 Features include the capability to edit and delete staff and student information, ensuring data accuracy and up-to-date records.
 username : admin
 password :admin
+
 2. Staff Module:
 
 The staff module is designed to empower teaching and non-teaching staff with efficient self-management tools.
@@ -13,6 +14,7 @@ A change password feature is implemented, allowing staff to enhance the security
 Staff members can view details of students within their respective departments, fostering better communication and understanding.
 username : pandi@gmail.com
 password : staff
+
 3. Student Module:
 
 The student module provides students with a user-friendly interface to manage their personal information.
@@ -20,6 +22,7 @@ Students can easily view and edit their own details, ensuring that their records
 The system employs a secure password change mechanism, and students can request a password reset link sent to their registered Gmail ID in case of forgotten passwords.
 username : suvetha@gmail.com
 password : student
+
 Technologies Used:
 
 Java Spring Boot Framework: Ensures a robust and scalable backend for seamless data management and processing.
